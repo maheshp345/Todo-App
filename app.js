@@ -64,7 +64,7 @@ let dynamic = document.querySelector(".dynamic");
         inputTask.focus();
     }
 
-    
+    inputTask.value ="";
 
 }
 
